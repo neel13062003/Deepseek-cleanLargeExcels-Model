@@ -43,11 +43,7 @@ python main.py --root_directory path/to/csv/files
 ## Project Structure
 ```
 project/
-│── main.py                # Main script
-│── utils.py               # Utility functions
-│── requirements.txt       # Dependencies
-│── README.md              # Project documentation
-└── data/                  # Folder for CSV files
+│── 1_CleanLargeMultipleExcels.py                # Main script
 ```
 
 ## Functions
